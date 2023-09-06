@@ -1,2 +1,0 @@
-#!/bin/bath
-e ssscho $PATH | tr ":" "\n" | wc -l
